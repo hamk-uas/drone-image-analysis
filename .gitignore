@@ -2,3 +2,10 @@
 labelling_project/
 maskedImg.png
 maskedModelImg.png
+bAndWLabelSoil.png
+bAndWLabelVegetation.png
+bAndWMaskedModelImg.png
+maskOverImg.png
+maskOverImg1.png
+soilError.png
+vegetationError.png
