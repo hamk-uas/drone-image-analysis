@@ -1,6 +1,0 @@
-Some observations
-1) Some labels are overlapping, so the output may be mixing things up as a result.
-2) Same labels may collect quite different features of the facade, so in those algorithm is also mixing things up. 
-3) The roof is not labelled.
-4) In general, labelling is pretty inaccurate, as labels sometimes take more place on the image than the actual ground truth object.
-5) Mirroring and jittering of the ground gruth images seems to be coped with well.
