@@ -1,7 +1,7 @@
 # drone-image-analysis
 ## HAMK Digital Bioeconomy Drone Image Data Analysis
 To support the decision making in agricultural research, one may want to observe the evolution of vegetation from the high-altitude image. In particular, when utilizing the high-altitude drone images, we face the problem of low image resolution (in this instance, one pixel contains 4x4 cm, whereas the image is taken from 80m altitude), from which we can not derive the vegetation coverage within one pixel. 
-![dataPipeline.jpg](attachment:dataPipeline.jpg)
+![dataPipeline.jpg](dataPipeline.jpg)
 
 # Installations
 
