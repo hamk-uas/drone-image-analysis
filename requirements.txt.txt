@@ -1,2 +1,11 @@
+python=3.7.10
 tensorflow-gpu=2.1.0
-c
+cudatoolkit=10.1
+cudnn=7.6
+tensorflow-estimator=2.1.0
+scikit-learn
+scikit-image
+shapely
+pydot
+pydotplus
+numpy
