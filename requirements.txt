@@ -9,3 +9,5 @@ shapely
 pydot
 pydotplus
 numpy
+matplotlib
+jupyter
