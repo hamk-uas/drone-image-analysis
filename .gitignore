@@ -1,7 +1,7 @@
 .ipynb_checkpoints/
-labelling_project/
 images/
 training_checkpoints/
+otherims/
 maskedImg.png
 maskedModelImg.png
 bAndWLabelSoil.png
@@ -11,3 +11,4 @@ maskOverImg.png
 maskOverImg1.png
 soilError.png
 vegetationError.png
+model.png

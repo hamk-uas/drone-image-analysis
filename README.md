@@ -2,7 +2,7 @@
 To support the decision making in agricultural research, one may want to observe the evolution of vegetation from the high-altitude image. In particular, when utilizing the high-altitude drone images, we face the problem of low image resolution (in this instance, one pixel contains `4x4cm`, whereas the image is taken from `80m` altitude), from which we can not derive the vegetation coverage within one pixel:
 ![highalt.png](highalt.png) <br>
 At the same time, we also have a small set of close-up calibration images, in which we can clearly observe whether the pixel is a vegetation or not, because the resolution is much higher:
-![image.png](labelling_project/upload/image.png) <br>
+![closeup.png](closeup.png) <br>
 We propose the following pipeline to infer the vegetation cover from the original high-altitude image:
 ![dataPipeline.jpg](dataPipeline.jpg) <br>
 Using the close-up calibration image, we label true-only instances of vegetation and soil (without edge labelling):
