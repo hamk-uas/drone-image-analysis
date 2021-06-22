@@ -5,7 +5,6 @@ cudnn=7.6
 tensorflow-estimator=2.1.0
 scikit-learn
 scikit-image
-shapely
 pydot
 pydotplus
 numpy
