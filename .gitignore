@@ -1,7 +1,9 @@
 .ipynb_checkpoints/
 images/
+logs/
 training_checkpoints/
 training_checkpoints_gan201/
+training_checkpoints_gan/
 otherims/
 otherims2/
 otherims3/
