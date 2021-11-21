@@ -4,6 +4,7 @@ logs/
 training_checkpoints/
 training_checkpoints_gan201/
 training_checkpoints_gan/
+training_checkpoints_downup/
 otherims/
 otherims2/
 otherims3/
